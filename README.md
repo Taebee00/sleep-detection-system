@@ -1,10 +1,12 @@
 # sleep-detection-system
-2021년 1학기 임베디드통신시스템 기말 프로젝트
+2021년 1학기 **임베디드통신시스템** 기말 프로젝트 - **라즈베리파이**를 이용한 **졸음 감지 및 방지 시스템**
 
-![image](https://github.com/Taebee00/sleep-detection-system/assets/104549849/a7760ed5-e7ff-414f-ae7a-80ce772c7e35)
-![image](https://github.com/Taebee00/sleep-detection-system/assets/104549849/19658390-3140-4611-87d5-8b3c92f5e853)
+> 상세 동영상 링크: <https://youtu.be/T8NQtY3ZAkc>
 
-상세 동영상 링크 <https://youtu.be/T8NQtY3ZAkc>
+|![image](https://github.com/Taebee00/sleep-detection-system/assets/104549849/a7760ed5-e7ff-414f-ae7a-80ce772c7e35)|![image](https://github.com/Taebee00/sleep-detection-system/assets/104549849/19658390-3140-4611-87d5-8b3c92f5e853)|
+|---|---|
+
+
 
 ## 프로젝트 개요
 운전자의 졸음을 인식하고 피드백 및 경고를 통해 졸음운전 문제를 해결하고자 함
